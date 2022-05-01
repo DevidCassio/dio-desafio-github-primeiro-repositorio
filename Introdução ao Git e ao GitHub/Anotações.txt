@@ -1,10 +1,10 @@
-Link para download do Git:https://git-scm.com/downloads
-
-O Git Bash é uma terminal extendido para otimizar o uso do Git.
+Link para download do Git: https://git-scm.com/downloads
 
 Roadmap de Estudos.
 FrontEnd Developer
+HTML , CSS , JAVASCRIPT
 Linki - https://roadmap.sh/frontend
 
 Backend Developer
+JAVASCRIPT , NODEJS , REACT 
 Link - https://roadmap.sh/backend
